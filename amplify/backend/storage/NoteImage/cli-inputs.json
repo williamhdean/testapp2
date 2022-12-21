@@ -1,0 +1,14 @@
+{
+  "resourceName": "NoteImage",
+  "policyUUID": "3385bcc1",
+  "bucketName": "testapp28f397352e7634a21a6f0f1d9b60116ef",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

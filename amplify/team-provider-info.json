@@ -16,6 +16,9 @@
         "testapp2b65d6d17": {},
         "testapp22a7803c8": {},
         "testapp249d348d5": {}
+      },
+      "api": {
+        "testapp2": {}
       }
     }
   }
